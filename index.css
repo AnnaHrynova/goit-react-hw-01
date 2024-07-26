@@ -1,0 +1,20 @@
+body {
+    font-family: 'Arial', sans-serif; 
+    letter-spacing: 0.02em;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  ul,
+  ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
